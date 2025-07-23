@@ -70,7 +70,7 @@ Configure scraping options:
 ```json
 {
   "topics_file": "topics.txt",
-  "concurrency": 20,
+  "concurrency": 5,
   "max_retries": 3,
   "telegram_enabled": true
 }
@@ -142,7 +142,7 @@ wiki_scraper/
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+[MIT License](https://github.com/abu-sinan/wiki_scraper/blob/main/LICENSE) — free to use, modify, and distribute.
 
 ---
 
