@@ -1,0 +1,6 @@
+{
+  "topics_file": "topics.txt",
+  "concurrency": 20,
+  "max_retries": 3,
+  "telegram_enabled": true
+}
