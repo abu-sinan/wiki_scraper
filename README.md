@@ -1,3 +1,4 @@
+![Wikipedia Scraper](https://github.com/abu-sinan/wiki_scraper/blob/main/assets%2Fthumbnail.png)
 # 📚 Unlimited Wikipedia Scraper with Telegram Integration
 
 A powerful, asynchronous Wikipedia scraper for collecting unlimited topics with real-time Telegram updates. Supports both PC and Android (Termux).
@@ -62,7 +63,7 @@ python wiki.py
 ---
 
 ## ⚙️ Configuration
-### `config.json`
+### config.json
 
 Configure scraping options:
 
@@ -76,7 +77,7 @@ Configure scraping options:
 ```
 
 
-### `topics.txt`
+### topics.txt
 
 List all Wikipedia topics you want to scrape, one per line:
 
@@ -95,8 +96,8 @@ ChatGPT
 ## 📤 Telegram Output Example
 
 
-> ✅ Topic: Deep learning
-📄 Summary: Deep learning is part of a broader family of machine learning methods based on artificial neural networks...
+> ✅ Topic: Deep learning  
+📄 Summary: Deep learning is part of a broader family of machine learning methods based on artificial neural networks...  
 🔗 https://en.wikipedia.org/wiki/Deep_learning
 
 
