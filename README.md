@@ -96,9 +96,9 @@ ChatGPT
 ## 📤 Telegram Output Example
 
 
-> ✅ Topic: Deep learning  
-📄 Summary: Deep learning is part of a broader family of machine learning methods based on artificial neural networks...  
-🔗 https://en.wikipedia.org/wiki/Deep_learning
+> ✅ **Topic:** Deep learning  
+📄 **Summary:** Deep learning is part of a broader family of machine learning methods based on artificial neural networks...  
+🔗 **Link:** https://en.wikipedia.org/wiki/Deep_learning
 
 
 ---
